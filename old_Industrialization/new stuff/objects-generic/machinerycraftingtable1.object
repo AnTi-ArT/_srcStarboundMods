@@ -1,0 +1,39 @@
+{
+  "objectName" : "machinerycraftingtable1",
+  "rarity" : "Common",
+  "objectType" : "interactable",
+  "interactAction" : "OpenCraftingInterface",
+  "interactData" : {
+    "config" : "/interface/windowconfig/machinerycraftingtable.config",
+    "filter" : [ "machinerycraftingtable" ]
+  },
+  "printable" : false,
+  "description" : "An expert craftsman could make a great machine on this.",
+  "shortdescription" : "Machinery Crafting Table",
+  "race" : "generic",
+  "category" : "crafting",
+  "price" : "0",
+
+  "apexDescription" : "Different machine parts are in the drawers.",
+  "avianDescription" : "A chance to display one's ability to create.",
+  "floranDescription" : "Floran ussse table. Make nice thingss.",
+  "glitchDescription" : "Inspired. Crafting module activated.",
+  "humanDescription" : "I can use materials I've found here to create new things.",
+  "hylotlDescription" : "A chance to create.",
+
+  "inventoryIcon" : "machinerycraftingtable1icon.png",
+  "orientations" : [
+    {
+      "dualImage" : "machinerycraftingtable1.png:<color>",
+
+      "imagePosition" : [-16, 0],
+      "frames" : 1,
+      "animationCycle" : 1.0,
+
+      "spaceScan" : 0.1,
+      "anchors" : [ "bottom" ],
+      "collision" : "platform"
+
+    }
+  ]
+}

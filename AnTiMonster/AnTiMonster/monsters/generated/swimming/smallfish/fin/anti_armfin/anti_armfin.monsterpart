@@ -1,0 +1,9 @@
+{
+  "name" : "anti_armfin",
+  "category" : "fish",
+  "type" : "fin",
+
+  "frames" : {
+    "fin" : "anti_armfin.png"
+  }
+}

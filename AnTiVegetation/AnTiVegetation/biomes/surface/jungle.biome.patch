@@ -1,0 +1,5 @@
+[
+	{"op":"add", "path" : "/undergroundPlaceables/items/5/treeFoliageList/-", "value": "anti_stringy" },
+	{"op":"add", "path" : "/undergroundPlaceables/items/5/treeFoliageList/-", "value": "anti_dusty" },
+	{"op":"add", "path" : "/undergroundPlaceables/items/5/treeFoliageList/-", "value": "anti_belly" }	
+]

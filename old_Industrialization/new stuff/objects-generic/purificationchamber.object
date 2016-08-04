@@ -1,0 +1,73 @@
+{
+  "objectName" : "purificationchamber",
+  "rarity" : "Uncommon",
+  "description" : "Has 150% increased Out-put, but produces Dirty Clump Dusts. Cannot Purify Gems.",
+  "shortdescription" : "Purification Chamber",
+  "race" : "generic",
+  "subtitle" : "Improved Ore Out-put.",
+  "category" : "Tier 3 - Macerator",
+  "price" : "0",
+  "objectType" : "container",
+  "printable" : false,
+  "hydrophobic" : true,
+
+  "apexDescription" : "A Purification Chamber.",
+  "avianDescription" : "A Purification Chamber.",
+  "floranDescription" : "Put ssstuff in, take sssstuff out.",
+  "glitchDescription" : "Descriptive. A Purification Chamber.",
+  "humanDescription" : "A fridge. No... A Purification Chamber.",
+  "hylotlDescription" : "A Purification Chamber.",
+
+  "lightColor" : [207, 218, 228],
+  "flickerDistance" : 0.1,
+  "flickerStrength" : 0.2,
+
+  "particleEmitter" : {
+    "emissionRate" : 0.5,
+    "emissionVariance" : 0.5,
+
+    "particle" : {
+      "type" : "ember",
+      "size" : "1.0",
+      "color" : [207, 218, 228, 150],
+      "light" : [207, 218, 228],
+      "fade" : 0.5,
+      "initialVelocity" : [0.0, 1.0],
+      "finalVelocity" : [0.0, 1.0],
+      "approach" : [0, 20],
+      "timeToLive" : 1.8,
+      "layer" : "middle"
+    },
+
+    "particleVariance" : {
+      "initialVelocity" : [0.5, 2.0]
+    }
+  },
+
+  "inventoryIcon" : "purificationchambericon.png",
+  "orientations" : [
+    {
+      "dualImage" : "purificationchamber.png:<color>.<frame>",
+
+      "imagePosition" : [0, 0],
+      "frames" : 4,
+      "animationCycle" : 1.5,
+
+      "spaceScan" : 0.1,
+      "anchors" : [ "bottom" ],
+      "collision" : "platform"
+
+    }
+  ],
+
+  "soundEffect" : "/sfx/objects/fluorescent_light_loud.wav",
+  "soundEffectRadius" : 40,
+
+  "recipeGroup" : "purificationchamber",
+  "openSounds" : [ "/sfx/objects/fridge_open.wav" ],
+  "slotCount" : 2,
+  "uiConfig" : "/interface/objectcrafting/macerator.config",
+  "frameCooldown" : 67,
+  "autoCloseCooldown" : 3600
+
+}

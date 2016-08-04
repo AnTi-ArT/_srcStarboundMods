@@ -1,0 +1,9 @@
+{
+  "name" : "anti_springtail",
+  "category" : "fish",
+  "type" : "tail",
+
+  "frames" : {
+    "tail" : "anti_springtail.png"
+  }
+}

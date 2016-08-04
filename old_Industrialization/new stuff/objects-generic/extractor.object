@@ -1,0 +1,69 @@
+{
+  "objectName" : "extractor",
+  "rarity" : "Common",
+  "description" : "Extracts materials such as Resin for rubber, and Dirty Clumps for Dust.",
+  "shortdescription" : "Extractor",
+  "race" : "generic",
+  "subtitle" : "Extracts raw materials.",
+  "category" : "Tier 1 - Extractor",
+  "price" : "2800",
+  "objectType" : "container",
+  "printable" : false,
+  "hydrophobic" : true,
+
+  "apexDescription" : "An Extractor.",
+  "avianDescription" : "An Extractor.",
+  "floranDescription" : "An Extractor.",
+  "glitchDescription" : "An Extractor.",
+  "humanDescription" : "An Extractor.",
+  "hylotlDescription" : "An Extractor.",
+
+  "particleEmitter" : {
+    "emissionRate" : 0.5,
+    "emissionVariance" : 0.5,
+
+    "particle" : {
+      "type" : "ember",
+      "size" : "1.0",
+      "color" : [171, 166, 151, 255],
+      "light" : [50, 40, 30],
+      "fade" : 0.9,
+      "initialVelocity" : [0.0, 1.0],
+      "finalVelocity" : [0.0, 0.5],
+      "approach" : [0, 20],
+      "timeToLive" : 1.5,
+      "layer" : "middle"
+    },
+
+    "particleVariance" : {
+      "initialVelocity" : [0.5, 2.0]
+    }
+  },
+
+  "inventoryIcon" : "extractoricon.png",
+  "orientations" : [
+    {
+      "dualImage" : "extractor.png:<color>.<frame>",
+
+      "imagePosition" : [0, 0],
+      "frames" : 4,
+      "animationCycle" : 0.5,
+
+      "spaceScan" : 0.1,
+      "anchors" : [ "bottom" ],
+      "collision" : "platform"
+
+    }
+  ],
+
+  "soundEffect" : "/sfx/objects/propeller.wav",
+  "soundEffectRadius" : 15,
+
+  "recipeGroup" : "extractor",
+  "openSounds" : [ "/sfx/objects/toilet_flush.wav" ],
+  "slotCount" : 2,
+  "uiConfig" : "/interface/objectcrafting/extractor.config",
+  "frameCooldown" : 67,
+  "autoCloseCooldown" : 3600
+
+}

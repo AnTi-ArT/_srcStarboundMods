@@ -1,0 +1,9 @@
+{
+  "name" : "anti_spikyfin",
+  "category" : "fish",
+  "type" : "fin",
+
+  "frames" : {
+    "fin" : "anti_spikyfin.png"
+  }
+}

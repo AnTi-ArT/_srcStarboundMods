@@ -1,0 +1,9 @@
+{
+  "author" : "Annuschka/AnTi",
+  "description" : "http://community.playstarbound.com/resources/antimonster-big-bag-of-monsters.301/\n\nThis mod adds more and more monster parts to increase the variation of creatures. It's work in progress. Right now, there are 30 new parts for the fishes, 30 parts for birds,12 parts for smallbipeds, 16 parts for tall bipeds and 31 parts for tiny quadrupeds.\nOther types of monsters will follow later.\n\nThis mod does not change any vanilla files, everything is prefixed \"anti_\" and nothing gets overwritten. It should be completely independent and compatible with anything.",
+  "friendlyName" : "AnTiMonster",
+  "link" : "steam://url/CommunityFilePage/730745660",
+  "name" : "AnTiMonster",
+  "steamContentId" : "730745660",
+  "version" : "2.0"
+}

@@ -1,0 +1,9 @@
+{
+  "name" : "anti_longfin",
+  "category" : "fish",
+  "type" : "fin",
+
+  "frames" : {
+    "fin" : "anti_longfin.png"
+  }
+}

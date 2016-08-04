@@ -1,0 +1,12 @@
+{
+  "name" : "AnTiVegetation",
+  "version" : "1.0",
+  "path" : ".",
+  "dependencies" : [],
+  "metadata" : {
+	"author" : "Annuschka/AnTi",
+	"description" : "Extending existing vegetation and adding new plants",
+	"version" : 2.1,
+	"link" : "http://community.playstarbound.com/index.php?resources/antivegetation-extended-plant-parts.1174/"
+  }
+}

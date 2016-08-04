@@ -1,0 +1,9 @@
+{
+  "name" : "anti_bottomfin",
+  "category" : "fish",
+  "type" : "fin",
+
+  "frames" : {
+    "fin" : "anti_bottomfin.png"
+  }
+}

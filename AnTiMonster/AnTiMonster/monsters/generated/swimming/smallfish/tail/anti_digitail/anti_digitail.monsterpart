@@ -1,0 +1,9 @@
+{
+  "name" : "anti_digitail",
+  "category" : "fish",
+  "type" : "tail",
+
+  "frames" : {
+    "tail" : "anti_digitail.png"
+  }
+}

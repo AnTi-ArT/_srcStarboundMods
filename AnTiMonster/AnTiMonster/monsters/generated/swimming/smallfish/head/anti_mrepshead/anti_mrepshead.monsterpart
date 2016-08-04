@@ -1,0 +1,9 @@
+{
+  "name" : "anti_mrepshead",
+  "category" : "fish",
+  "type" : "head",
+
+  "frames" : {
+    "head" : "anti_mrepshead.png"
+  }
+}

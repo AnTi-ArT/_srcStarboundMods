@@ -1,0 +1,8 @@
+[
+	{"op":"add", "path" : "/surfacePlaceables/grassMod/-", "value": "anti_grass_bubbly" },
+	{"op":"add", "path" : "/surfacePlaceables/grassMod/-", "value": "anti_grass_thin" },
+	{"op":"add", "path" : "/surfacePlaceables/grassMod/-", "value": "anti_grass_tiny" },
+	{"op":"add", "path" : "/undergroundPlaceables/grassMod/-", "value": "anti_grass_bubbly" },
+	{"op":"add", "path" : "/undergroundPlaceables/grassMod/-", "value": "anti_grass_thin" },
+	{"op":"add", "path" : "/undergroundPlaceables/grassMod/-", "value": "anti_grass_tiny" }
+]

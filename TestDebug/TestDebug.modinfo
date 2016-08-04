@@ -1,0 +1,13 @@
+{
+  "name" : "TestDebug",
+  "version" : "1.0",
+  "path" : ".",
+  "dependencies" : [],
+  "metadata" : {
+    "displayName" : "Test",
+    "author" : "Annuschka/AnTi",
+    "description" : "for Debug.",
+	"version" : 0.666,
+    "support_url" : ""
+  }
+}

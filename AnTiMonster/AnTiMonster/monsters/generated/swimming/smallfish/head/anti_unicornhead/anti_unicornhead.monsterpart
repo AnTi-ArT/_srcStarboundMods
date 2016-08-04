@@ -1,0 +1,9 @@
+{
+  "name" : "anti_unicornhead",
+  "category" : "fish",
+  "type" : "head",
+
+  "frames" : {
+    "head" : "anti_unicornhead.png"
+  }
+}

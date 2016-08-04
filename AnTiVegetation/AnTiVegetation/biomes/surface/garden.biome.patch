@@ -1,0 +1,15 @@
+[
+	{"op":"add", "path" : "/surfacePlaceables/grassMod/-", "value": "anti_grass_bubbly" },
+	{"op":"add", "path" : "/surfacePlaceables/grassMod/-", "value": "anti_grass_thin" },
+	{"op":"add", "path" : "/surfacePlaceables/grassMod/-", "value": "anti_grass_tiny" },
+	{"op":"add", "path" : "/undergroundPlaceables/grassMod/-", "value": "anti_grass_bubbly" },
+	{"op":"add", "path" : "/undergroundPlaceables/grassMod/-", "value": "anti_grass_thin" },
+	{"op":"add", "path" : "/undergroundPlaceables/grassMod/-", "value": "anti_grass_tiny" },
+	
+	{"op":"add", "path" : "/surfacePlaceables/items/8/treeFoliageList/-", "value": "anti_stringy" },
+	{"op":"add", "path" : "/surfacePlaceables/items/8/treeFoliageList/-", "value": "anti_dusty" },
+	{"op":"add", "path" : "/surfacePlaceables/items/8/treeFoliageList/-", "value": "anti_belly" },
+	{"op":"add", "path" : "/undergroundPlaceables/items/4/treeFoliageList/-", "value": "anti_stringy" },
+	{"op":"add", "path" : "/undergroundPlaceables/items/4/treeFoliageList/-", "value": "anti_dusty" },
+	{"op":"add", "path" : "/undergroundPlaceables/items/4/treeFoliageList/-", "value": "anti_belly" }
+]

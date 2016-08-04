@@ -1,0 +1,81 @@
+{
+  "objectName" : "ironfurnace",
+  "rarity" : "Common",
+  "description" : "An Iron Furnace, better than the Stone one, can Smelt Common Dust Ores.",
+  "shortdescription" : "Iron Furnace",
+  "race" : "generic",
+  "subtitle" : "Smelts Common Dust Ores.",
+  "category" : "Basic Iron Furnace",
+  "price" : "0",
+  "objectType" : "container",
+  "printable" : false,
+  "hydrophobic" : true,
+
+  "apexDescription" : "An Iron Furnace. A bit better than the stone one.",
+  "avianDescription" : "An Iron Furnace.",
+  "floranDescription" : "Hot. Hot. Burssss.",
+  "glitchDescription" : "Descriptive. An Iron Furnace.",
+  "humanDescription" : "An Iron Furnace.",
+  "hylotlDescription" : "An Iron Furnace.",
+
+  "lightColor" : [229, 218, 207],
+  "flickerDistance" : 0.5,
+  "flickerStrength" : 0.1,
+
+  "particleEmitter" : {
+    "emissionRate" : 1.0,
+    "emissionVariance" : 0.5,
+
+    "particle" : {
+      "type" : "ember",
+      "size" : "1.0",
+      "color" : [255, 100, 0, 255],
+      "light" : [150, 50, 50],
+      "fade" : 0.9,
+      "initialVelocity" : [0.0, 5.0],
+      "finalVelocity" : [0.0, 3.0],
+      "approach" : [0, 20],
+      "timeToLive" : 2,
+      "layer" : "middle"
+    },
+
+    "particleVariance" : {
+      "initialVelocity" : [0.5, 2.0]
+    }
+  },
+
+  "inventoryIcon" : "ironfurnaceicon.png",
+  "orientations" : [
+    {
+      "dualImage" : "ironfurnace.png:<color>.<frame>",
+
+      "imagePosition" : [0, 0],
+      "frames" : 4,
+      "animationCycle" : 0.5,
+
+      "spaceScan" : 0.1,
+      "anchors" : [ "bottom" ],
+      "collision" : "platform"
+
+    }
+  ],
+
+  "soundEffect" : "/sfx/objects/campfire.wav",
+  "soundEffectRadius" : 50,
+
+  "statusEffects" : [
+    {
+      "kind" : "Warmth",
+      "amount" : 60,
+      "range" : 8
+    }
+  ],
+
+  "recipeGroup" : "ironfurnace",
+  "openSounds" : [ "/sfx/objects/campfire_use.wav" ],
+  "slotCount" : 2,
+  "uiConfig" : "/interface/objectcrafting/stonefurnace.config",
+  "frameCooldown" : 67,
+  "autoCloseCooldown" : 3600
+
+}

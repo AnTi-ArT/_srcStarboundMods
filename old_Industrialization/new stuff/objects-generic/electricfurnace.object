@@ -1,0 +1,81 @@
+{
+  "objectName" : "electricfurnace",
+  "rarity" : "Common",
+  "description" : "More potent than the Iron Furnace, smelts Uncommon Dust ores and Gems.",
+  "shortdescription" : "Electric Furnace",
+  "race" : "generic",
+  "subtitle" : "For Uncommon Dust ores.",
+  "category" : "Tier 1 - Furnace",
+  "price" : "0",
+  "objectType" : "container",
+  "printable" : false,
+  "hydrophobic" : true,
+
+  "apexDescription" : "An Electric Furnace.",
+  "avianDescription" : "An Electric Furnace. Precicely tuned for delicate metalwork.",
+  "floranDescription" : "Hissss, hot, Floran just push button and ssstay away.",
+  "glitchDescription" : "Descriptive. An Electric Furnace.",
+  "humanDescription" : "An Electric Furnace, melts ores, burns pizza.",
+  "hylotlDescription" : "An Electric Furnace.",
+
+  "lightColor" : [229, 218, 207],
+  "flickerDistance" : 0.5,
+  "flickerStrength" : 0.1,
+
+  "particleEmitter" : {
+    "emissionRate" : 1.0,
+    "emissionVariance" : 0.5,
+
+    "particle" : {
+      "type" : "ember",
+      "size" : "1.0",
+      "color" : [255, 100, 0, 255],
+      "light" : [150, 50, 50],
+      "fade" : 0.9,
+      "initialVelocity" : [0.0, 5.0],
+      "finalVelocity" : [0.0, 3.0],
+      "approach" : [0, 20],
+      "timeToLive" : 2,
+      "layer" : "middle"
+    },
+
+    "particleVariance" : {
+      "initialVelocity" : [0.5, 2.0]
+    }
+  },
+
+  "inventoryIcon" : "electricfurnaceicon.png",
+  "orientations" : [
+    {
+      "dualImage" : "electricfurnace.png:<color>.<frame>",
+
+      "imagePosition" : [0, 0],
+      "frames" : 4,
+      "animationCycle" : 0.5,
+
+      "spaceScan" : 0.1,
+      "anchors" : [ "bottom" ],
+      "collision" : "platform"
+
+    }
+  ],
+
+  "soundEffect" : "/sfx/objects/campfire.wav",
+  "soundEffectRadius" : 50,
+
+  "statusEffects" : [
+    {
+      "kind" : "Warmth",
+      "amount" : 80,
+      "range" : 8
+    }
+  ],
+
+  "recipeGroup" : "electricfurnace",
+  "openSounds" : [ "/sfx/objects/campfire_use.wav" ],
+  "slotCount" : 2,
+  "uiConfig" : "/interface/objectcrafting/stonefurnace.config",
+  "frameCooldown" : 67,
+  "autoCloseCooldown" : 3600
+
+}

@@ -1,0 +1,9 @@
+{
+  "name" : "anti_nightknive",
+  "category" : "largequadruped",
+  "type" : "tail",
+
+  "frames" : {
+    "tail" : "anti_knive.png"
+  }
+}

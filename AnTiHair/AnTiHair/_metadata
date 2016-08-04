@@ -1,0 +1,9 @@
+{
+  "author" : "Annuschka/AnTi",
+  "description" : "http://community.playstarbound.com/resources/antihair-big-bag-of-long-hairstyles.252/ \n\nThis mod adds 275 new hair styles for all races. A lot of them are long (especially for the males) and most of the human male styles have beards too. Human and Apex have different styles for the genders (with a few shared), all other races are unisex. Includes now 34 hairstyles for Novakids plus 20 new brands. As of 2.3 there are also 36 male only assets with beards. Refer to the changelog/image.\n\nHair decoration:\n- Humans use underware color for hair accessories\n- Apex accessories colors are bound to fur color (I picked them from items)\n- Avian use some special, fixed colors I picked from their items (Gold e.g.)\n\n[h1]Compatibility[/h1]\nI didn't test it with many other mods. However, I use prefixes and I don't overwrite anything. It should work fine. If you use a mod that adds fur colors to Apex: Hair accessories will be red on those.\nDisabling the mod will lead to a bald character.\nEnabling the mod will also add those hairstyles to NPCs randomly.\n\n[h1]Redistribution / Assets:[/h1]\nAdding to Mod Packs is allowed. You can also use assets in your own mod BUT don't pass them off as your own: e.g. link back to me. Anyone can use this mod in their mod compilation without the author's consent. Anyone can redistribute the mod's assets, when the author is mentioned in some kind of credits.\n\n[h1]Shameless advertisement[/h1]\n[b]GET MY OTHER MODS TOO!!![/b]\n- [url=http://steamcommunity.com/sharedfiles/filedetails/?id=734170655]AnTiVegetation increases biodiversity by 489%![/url]\n- [url=http://steamcommunity.com/sharedfiles/filedetails/?id=730745660]AnTiMonster adds 117 monster parts[/url]",
+  "friendlyName" : "AnTiHair",
+  "link" : "steam://url/CommunityFilePage/730544933",
+  "name" : "AnTiHair",
+  "steamContentId" : "730544933",
+  "version" : "2.3"
+}

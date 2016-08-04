@@ -1,0 +1,82 @@
+{
+  "objectName" : "moltenglassfactory",
+  "rarity" : "Uncommon",
+  "description" : "Produces Coloured glass jars with petals which then can be extracted for Stim Packs.",
+  "shortdescription" : "Molten Glass Factory",
+  "race" : "generic",
+  "subtitle" : "Makes Fluid glass jars.",
+  "category" : "Tier 2 - Molten Glass Factory",
+  "price" : "0",
+  "objectType" : "container",
+  "printable" : false,
+  "hydrophobic" : true,
+  "learnBlueprintsOnPickup" : [ "fluidpipe", "extractor" ],
+
+  "apexDescription" : "A Molten Glass Factory.",
+  "avianDescription" : "A Molten Glass Factory.",
+  "floranDescription" : "Hot ssstuff gets shiny when cold.",
+  "glitchDescription" : "Descriptive. A Molten Glass Factory.",
+  "humanDescription" : "A Molten Glass Factory.",
+  "hylotlDescription" : "A Molten Glass Factory.",
+
+  "lightColor" : [229, 218, 207],
+  "flickerDistance" : 0.3,
+  "flickerStrength" : 0.1,
+
+  "particleEmitter" : {
+    "emissionRate" : 1.0,
+    "emissionVariance" : 0.5,
+
+    "particle" : {
+      "type" : "ember",
+      "size" : "1.0",
+      "color" : [255, 100, 0, 255],
+      "light" : [150, 50, 50],
+      "fade" : 0.9,
+      "initialVelocity" : [0.0, 5.0],
+      "finalVelocity" : [0.0, 3.0],
+      "approach" : [0, 20],
+      "timeToLive" : 2,
+      "layer" : "middle"
+    },
+
+    "particleVariance" : {
+      "initialVelocity" : [0.5, 2.0]
+    }
+  },
+
+  "inventoryIcon" : "moltenglassfactoryicon.png",
+  "orientations" : [
+    {
+      "dualImage" : "moltenglassfactory.png:<color>.<frame>",
+
+      "imagePosition" : [0, 0],
+      "frames" : 4,
+      "animationCycle" : 0.5,
+
+      "spaceScan" : 0.1,
+      "anchors" : [ "bottom" ],
+      "collision" : "platform"
+
+    }
+  ],
+
+  "soundEffect" : "/sfx/objects/campfire.wav",
+  "soundEffectRadius" : 50,
+
+  "statusEffects" : [
+    {
+      "kind" : "Warmth",
+      "amount" : 80,
+      "range" : 9
+    }
+  ],
+
+  "recipeGroup" : "moltenglassfactory",
+  "openSounds" : [ "/sfx/objects/campfire_use.wav" ],
+  "slotCount" : 2,
+  "uiConfig" : "/interface/objectcrafting/stonefurnace.config",
+  "frameCooldown" : 67,
+  "autoCloseCooldown" : 3600
+
+}

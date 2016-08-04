@@ -1,0 +1,9 @@
+{
+  "name" : "anti_jellyhead",
+  "category" : "fish",
+  "type" : "head",
+
+  "frames" : {
+    "head" : "anti_jellyhead.png"
+  }
+}

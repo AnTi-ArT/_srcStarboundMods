@@ -1,0 +1,9 @@
+{
+  "name" : "anti_hylaxlhead",
+  "category" : "fish",
+  "type" : "head",
+
+  "frames" : {
+    "head" : "anti_hylaxlhead.png"
+  }
+}

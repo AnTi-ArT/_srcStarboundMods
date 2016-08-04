@@ -1,0 +1,52 @@
+{
+  "objectName" : "bioplantgenetics",
+  "rarity" : "Uncommon",
+  "description" : "A tier 2 machine, capable of turning Dust Ores into growable metal plants.",
+  "shortdescription" : "Bio-Plant Genetics",
+  "race" : "generic",
+  "subtitle" : "Forms seeds from dusts.",
+  "category" : "Tier 2 - Genetics",
+  "price" : "0",
+  "objectType" : "container",
+  "printable" : false,
+  "hydrophobic" : true,
+
+  "apexDescription" : "Bio Genetics. I learned this at elementary school.",
+  "avianDescription" : "It makes life from nothing. What godly power.",
+  "floranDescription" : "Floransss make baby plantsss too.",
+  "glitchDescription" : "Sympathetic: Bio Genetics to make life from metal.",
+  "humanDescription" : "Colorful test tubes. Is there something moving inside?!",
+  "hylotlDescription" : "Bio-Plant Genetics. Can also help against famines.",
+
+  "lightColor" : [207, 218, 228],
+  "flickerDistance" : 0.1,
+  "flickerStrength" : 0.3,
+
+  "inventoryIcon" : "bioplantgeneticsicon.png",
+  "orientations" : [
+    {
+      "dualImage" : "bioplantgenetics.png:<color>.<frame>",
+
+      "imagePosition" : [0, 0],
+      "frames" : 4,
+      "animationCycle" : 0.5,
+
+      "spaceScan" : 0.1,
+      "anchors" : [ "bottom" ],
+      "collision" : "platform"
+
+    }
+  ],
+
+  "soundEffect" : "/sfx/objects/aquarium1.wav",
+  "soundEffectRadius" : 25,
+
+
+  "recipeGroup" : "bioplantgenetics",
+  "openSounds" : [ "/sfx/objects/plantpanel_interact.wav" ],
+  "slotCount" : 2,
+  "uiConfig" : "/interface/objectcrafting/stonefurnace.config",
+  "frameCooldown" : 67,
+  "autoCloseCooldown" : 3600
+
+}

@@ -1,0 +1,9 @@
+{
+  "name" : "anti_hylaxltail",
+  "category" : "fish",
+  "type" : "tail",
+
+  "frames" : {
+    "tail" : "anti_hylaxltail.png"
+  }
+}

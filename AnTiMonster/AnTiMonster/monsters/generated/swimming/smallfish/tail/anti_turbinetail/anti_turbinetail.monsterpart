@@ -1,0 +1,9 @@
+{
+  "name" : "anti_turbinetail",
+  "category" : "fish",
+  "type" : "tail",
+
+  "frames" : {
+    "tail" : "anti_turbinetail.png"
+  }
+}

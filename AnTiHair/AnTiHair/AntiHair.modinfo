@@ -1,0 +1,13 @@
+{
+  "name" : "AnTiHair",
+  "version" : "1.0",
+  "path" : ".",
+  "dependencies" : [],
+  "metadata" : {
+    "displayName" : "AnTiHair",
+    "author" : "Annuschka/AnTi",
+    "description" : "More Hairstyles for all races.",
+	"version" : 2.3,
+    "support_url" : "http://community.playstarbound.com/index.php?resources/antihair-big-bag-of-long-hairstyles.252/"
+  }
+}

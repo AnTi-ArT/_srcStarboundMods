@@ -1,0 +1,9 @@
+{
+  "name" : "anti_jellytail",
+  "category" : "fish",
+  "type" : "tail",
+
+  "frames" : {
+    "tail" : "anti_jellytail.png"
+  }
+}

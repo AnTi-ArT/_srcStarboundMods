@@ -1,0 +1,9 @@
+{
+  "name" : "anti_unicorntail",
+  "category" : "fish",
+  "type" : "tail",
+
+  "frames" : {
+    "tail" : "anti_unicorntail.png"
+  }
+}

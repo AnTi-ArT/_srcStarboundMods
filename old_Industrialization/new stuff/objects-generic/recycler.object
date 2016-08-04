@@ -1,0 +1,55 @@
+{
+  "objectName" : "recycler",
+  "rarity" : "Uncommon",
+  "description" : "Can recycle many blocks for Mineral Scrap, Cobble, Dirt, Ect.",
+  "shortdescription" : "Recycler",
+  "race" : "generic",
+  "subtitle" : "Recycle Blocks for Scrap.",
+  "category" : "Tier 2 - Recycler",
+  "price" : "0",
+  "objectType" : "container",
+  "printable" : false,
+  "hydrophobic" : true,
+
+  "apexDescription" : "A Recycler.",
+  "avianDescription" : "A Recycler.",
+  "floranDescription" : "It eatsss trash.",
+  "glitchDescription" : "Descriptive. A Recycler.",
+  "humanDescription" : "A Recycler. Time to start waste separation.",
+  "hylotlDescription" : "A Recycler. Keeps the environment clean",
+
+  "inventoryIcon" : "recyclericon.png",
+  "orientations" : [
+    {
+      "dualImage" : "recycler.png:<color>.<frame>",
+
+      "imagePosition" : [0, 0],
+      "frames" : 4,
+      "animationCycle" : 0.5,
+
+      "spaceScan" : 0.1,
+      "anchors" : [ "bottom" ],
+      "collision" : "platform"
+
+    }
+  ],
+
+  "soundEffect" : "/sfx/objects/bunkervent.wav",
+  "soundEffectRadius" : 40,
+
+  "statusEffects" : [
+    {
+      "kind" : "Warmth",
+      "amount" : 80,
+      "range" : 8
+    }
+  ],
+
+  "recipeGroup" : "recycler",
+  "openSounds" : [ "/sfx/objects/metalslidingdoor_open.wav" ],
+  "slotCount" : 2,
+  "uiConfig" : "/interface/objectcrafting/recycler.config",
+  "frameCooldown" : 67,
+  "autoCloseCooldown" : 3600
+
+}

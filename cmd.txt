@@ -1,0 +1,5 @@
+..\win32\asset_packer.exe .\AnTiHair\AnTiHair .\AnTiHair\AnTiHair.pak
+
+..\win32\asset_packer.exe .\AnTiMonster\AnTiMonster .\AnTiMonster\AnTiMonster.pak
+
+..\win32\asset_packer.exe .\AnTiVegetation\AnTiVegetation .\AnTiVegetation\AnTiVegetation.pak

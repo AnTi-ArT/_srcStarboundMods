@@ -1,0 +1,9 @@
+{
+  "name" : "anti_nightspikeschest",
+  "category" : "largequadruped",
+  "type" : "chest",
+
+  "frames" : {
+    "chest" : "anti_spikeschest.png"
+  }
+}

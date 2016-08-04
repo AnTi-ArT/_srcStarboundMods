@@ -1,0 +1,9 @@
+{
+  "name" : "anti_smallhead",
+  "category" : "fish",
+  "type" : "head",
+
+  "frames" : {
+    "head" : "anti_smallhead.png"
+  }
+}

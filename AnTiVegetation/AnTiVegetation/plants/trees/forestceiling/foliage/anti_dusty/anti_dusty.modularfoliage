@@ -1,0 +1,135 @@
+{
+  "name" : "anti_dusty",
+  "shape" : "forestceiling",
+
+  "parallaxFoliage" : true,
+  
+  "crownLeaves" : {
+    "crown1" : {
+      "image" : "anti_end1.png",
+      "backimage" : "",
+      "attachment" : {
+        "bx" : 0,
+        "by" : 0
+      }
+    },
+    "crown2" : {
+      "image" : "anti_end2.png",
+      "backimage" : "",
+      "attachment" : {
+        "bx" : 0,
+        "by" : 0
+      }
+    },
+	"anti_crown3" : {
+      "image" : "anti_end3.png",
+      "attachment" : {
+        "bx" : 0,
+        "by" : 0
+      }
+    }
+  },
+  
+  "trunkLeaves" : {
+    "middle1" : {
+      "image" : "anti_mid1.png",
+      "backimage" : "",
+      "attachment" : {
+        "bx" : 0,
+        "by" : 0
+      }
+    },
+    "middle2" : {
+      "image" : "anti_mid2.png",
+      "backimage" : "",
+      "attachment" : {
+        "bx" : 0,
+        "by" : 0
+      }
+    },
+	"anti_middle3" : {
+      "image" : "anti_mid3.png",
+      "backimage" : "",
+      "attachment" : {
+        "bx" : 0,
+        "by" : 0
+      }
+    },
+    "anti_middle4" : {
+      "image" : "anti_mid4.png",
+      "backimage" : "",
+      "attachment" : {
+        "bx" : 0,
+        "by" : 0
+      }
+    },
+	"anti_middle5" : {
+      "image" : "anti_mid5.png",
+      "backimage" : "",
+      "attachment" : {
+        "bx" : 0,
+        "by" : 0
+      }
+    },
+    "anti_middle6" : {
+      "image" : "anti_mid6.png",
+      "backimage" : "",
+      "attachment" : {
+        "bx" : 0,
+        "by" : 0
+      }
+    },
+	"anti_middle7" : {
+      "image" : "anti_mid3.png",
+      "backimage" : "",
+      "attachment" : {
+        "bx" : 0,
+        "by" : 0
+      }
+    },
+    "anti_middle8" : {
+      "image" : "anti_mid4.png",
+      "backimage" : "",
+      "attachment" : {
+        "bx" : 0,
+        "by" : 0
+      }
+    }
+  },
+  
+  "baseLeaves" : {
+    "base1" : {
+      "image" : "anti_base1.png",
+      "backimage" : "",
+      "attachment" : {
+        "bx" : 0,
+        "by" : 0
+      }
+    },
+    "base2" : {
+      "image" : "anti_base2.png",
+      "backimage" : "",
+      "attachment" : {
+        "bx" : 0,
+        "by" : 0
+      }
+    },
+	"anti_base3" : {
+      "image" : "anti_base3.png",
+      "backimage" : "",
+      "attachment" : {
+        "bx" : 0,
+        "by" : 0
+      }
+    },
+    "anti_base4" : {
+      "image" : "anti_base4.png",
+      "backimage" : "",
+      "attachment" : {
+        "bx" : 0,
+        "by" : 0
+      }
+    }
+  }
+  
+}

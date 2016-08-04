@@ -1,0 +1,9 @@
+{
+  "name" : "anti_nightbutt",
+  "category" : "largequadruped",
+  "type" : "tail",
+
+  "frames" : {
+    "tail" : "anti_butt.png"
+  }
+}

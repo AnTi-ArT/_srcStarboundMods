@@ -1,0 +1,9 @@
+{
+  "name" : "anti_nightwingschest",
+  "category" : "largequadruped",
+  "type" : "chest",
+
+  "frames" : {
+    "chest" : "anti_wingschest.png"
+  }
+}

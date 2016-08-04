@@ -1,0 +1,9 @@
+{
+  "name" : "anti_microbetail",
+  "category" : "fish",
+  "type" : "tail",
+
+  "frames" : {
+    "tail" : "anti_microbetail.png"
+  }
+}

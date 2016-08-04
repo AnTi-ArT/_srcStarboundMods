@@ -1,0 +1,74 @@
+[
+	{"op":"add", "path" : "/crownLeaves/anti_crown3", "value": {
+		"image" : "anti_end3.png",
+			"attachment" : {
+				"bx" : 0,
+				"by" : 0
+			}
+		}
+	},
+	{"op":"add", "path" : "/trunkLeaves/anti_middle3", "value": {
+		"image" : "anti_mid3.png",
+			"attachment" : {
+				"bx" : 0,
+				"by" : 0
+			}
+		}
+	},
+		{"op":"add", "path" : "/trunkLeaves/anti_middle4", "value": {
+		"image" : "anti_mid4.png",
+			"attachment" : {
+				"bx" : 0,
+				"by" : 0
+			}
+		}
+	},
+		{"op":"add", "path" : "/trunkLeaves/anti_middle5", "value": {
+		"image" : "anti_mid5.png",
+			"attachment" : {
+				"bx" : 0,
+				"by" : 0
+			}
+		}
+	},
+		{"op":"add", "path" : "/trunkLeaves/anti_middle6", "value": {
+		"image" : "anti_mid6.png",
+			"attachment" : {
+				"bx" : 0,
+				"by" : 0
+			}
+		}
+	},
+		{"op":"add", "path" : "/trunkLeaves/anti_middle7", "value": {
+		"image" : "anti_mid7.png",
+			"attachment" : {
+				"bx" : 0,
+				"by" : 0
+			}
+		}
+	},
+		{"op":"add", "path" : "/trunkLeaves/anti_middle8", "value": {
+		"image" : "anti_mid8.png",
+			"attachment" : {
+				"bx" : 0,
+				"by" : 0
+			}
+		}
+	},
+		{"op":"add", "path" : "/baseLeaves/anti_base3", "value": {
+		"image" : "anti_base3.png",
+			"attachment" : {
+				"bx" : 0,
+				"by" : 0
+			}
+		}
+	},
+		{"op":"add", "path" : "/baseLeaves/anti_base4", "value": {
+		"image" : "anti_base4.png",
+			"attachment" : {
+				"bx" : 0,
+				"by" : 0
+			}
+		}
+	}	
+]

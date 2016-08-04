@@ -1,0 +1,9 @@
+{
+  "name" : "anti_nightnymph",
+  "category" : "largequadruped",
+  "type" : "tail",
+
+  "frames" : {
+    "tail" : "anti_nymph.png"
+  }
+}

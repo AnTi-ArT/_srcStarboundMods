@@ -3,3 +3,6 @@
 ..\win32\asset_packer.exe .\AnTiMonster\AnTiMonster .\AnTiMonster\AnTiMonster.pak
 
 ..\win32\asset_packer.exe .\AnTiVegetation\AnTiVegetation .\AnTiVegetation\AnTiVegetation.pak
+
+
+..\win32\asset_unpacker.exe ..\assets\packed.pak ..\_unpacked\assets

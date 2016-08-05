@@ -1,6 +1,6 @@
 {
-  "modId" : 2224,
-  "modName" : "anti_grass_04leafy",
+  "modId" : 2225,
+  "modName" : "anti_grass_05_big",
   "description" : "The floor is covered with leaves.",
   "footstepSound" : "/sfx/blocks/footstep_grass.ogg",
   "grass" : true,
@@ -8,7 +8,7 @@
 
   "renderTemplate" : "/tiles/classicmaterialtemplate.config",
   "renderParameters" : {
-    "texture" : "anti_grass_04leafy.png",
+    "texture" : "anti_grass_05_big.png",
     "variants" : 5,
     "multiColored" : false,
     "zLevel" : 0

@@ -1,7 +1,7 @@
 {
-  "modId" : 2228,
+  "modId" : 2208,
   "modName" : "anti_grass_08_bigClr",
-  "description" : "The floor is covered with leaves.",
+  "description" : "The floor is covered with big, colourful leaves.",
   "footstepSound" : "/sfx/blocks/footstep_grass.ogg",
   "grass" : true,
   "health" : 0,

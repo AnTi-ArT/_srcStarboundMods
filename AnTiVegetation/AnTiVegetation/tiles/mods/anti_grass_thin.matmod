@@ -8,7 +8,7 @@
 
   "renderTemplate" : "/tiles/classicmaterialtemplate.config",
   "renderParameters" : {
-    "texture" : "anti_grass_thin.png",
+    "texture" : "anti_grass_02_thin.png",
     "variants" : 5,
     "multiColored" : false,
     "zLevel" : 0

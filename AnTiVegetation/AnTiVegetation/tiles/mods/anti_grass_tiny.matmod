@@ -1,6 +1,6 @@
 {
   "modId" : 2221,
-  "modName" : "ant_grass_tiny",
+  "modName" : "anti_grass_tiny",
   "description" : "A lot of tiny grass is growing here.",
   "footstepSound" : "/sfx/blocks/footstep_grass.ogg",
   "grass" : true,
@@ -8,7 +8,7 @@
 
   "renderTemplate" : "/tiles/classicmaterialtemplate.config",
   "renderParameters" : {
-    "texture" : "anti_grass_tiny.png",
+    "texture" : "anti_grass_01_tiny.png",
     "variants" : 5,
     "multiColored" : false,
     "zLevel" : 0

@@ -6,3 +6,5 @@
 
 
 ..\win32\asset_unpacker.exe ..\assets\packed.pak ..\_unpacked\assets
+
+..\win32\asset_unpacker.exe .\AnTiVegetation\AnTiVegetation.pak ..\_unpacked\vegtest

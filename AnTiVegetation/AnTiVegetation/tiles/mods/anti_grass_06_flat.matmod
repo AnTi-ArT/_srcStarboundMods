@@ -1,7 +1,7 @@
 {
-  "modId" : 2226,
+  "modId" : 2206,
   "modName" : "anti_grass_06_flat",
-  "description" : "The floor is covered with leaves.",
+  "description" : "Vegetation grows close to the floor.",
   "footstepSound" : "/sfx/blocks/footstep_grass.ogg",
   "grass" : true,
   "health" : 0,

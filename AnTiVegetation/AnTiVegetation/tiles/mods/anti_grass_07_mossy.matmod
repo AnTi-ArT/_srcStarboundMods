@@ -1,7 +1,7 @@
 {
-  "modId" : 2227,
+  "modId" : 2207,
   "modName" : "anti_grass_07_mossy",
-  "description" : "The floor is covered with leaves.",
+  "description" : "The floor is covered with moss.",
   "footstepSound" : "/sfx/blocks/footstep_grass.ogg",
   "grass" : true,
   "health" : 0,

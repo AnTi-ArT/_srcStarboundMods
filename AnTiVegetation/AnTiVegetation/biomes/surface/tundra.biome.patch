@@ -1,0 +1,7 @@
+[
+	{"op":"add", "path" : "/surfacePlaceables/grassMod/-", "value": "anti_grass_15_mossySno" },
+	{"op":"add", "path" : "/surfacePlaceables/grassMod/-", "value": "anti_grass_17_thinSno" },
+	
+	{"op":"add", "path" : "/undergroundPlaceables/grassMod/-", "value": "anti_grass_15_mossySno" },
+	{"op":"add", "path" : "/undergroundPlaceables/grassMod/-", "value": "anti_grass_17_thinSno" }
+]

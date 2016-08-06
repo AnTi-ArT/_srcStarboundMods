@@ -1,0 +1,5 @@
+[
+	{"op":"add", "path" : "/undergroundPlaceables/grassMod/-", "value": "anti_grass_14_bubblySno" },
+	{"op":"add", "path" : "/undergroundPlaceables/grassMod/-", "value": "anti_grass_15_mossySno" },
+	{"op":"add", "path" : "/undergroundPlaceables/grassMod/-", "value": "anti_grass_17_thinSno" }
+]

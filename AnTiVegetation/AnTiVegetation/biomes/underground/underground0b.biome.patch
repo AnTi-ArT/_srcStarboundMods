@@ -1,5 +1,10 @@
 [
 	{"op":"add", "path" : "/undergroundPlaceables/items/7/treeFoliageList/-", "value": "anti_stringy" },
 	{"op":"add", "path" : "/undergroundPlaceables/items/7/treeFoliageList/-", "value": "anti_dusty" },
-	{"op":"add", "path" : "/undergroundPlaceables/items/7/treeFoliageList/-", "value": "anti_belly" }
+	{"op":"add", "path" : "/undergroundPlaceables/items/7/treeFoliageList/-", "value": "anti_belly" },
+	
+	
+	{"op":"add", "path" : "/undergroundPlaceables/grassMod/-", "value": "anti_grass_10_thinDry" },
+	{"op":"add", "path" : "/undergroundPlaceables/grassMod/-", "value": "anti_grass_11_mossyDry" },
+	{"op":"add", "path" : "/undergroundPlaceables/grassMod/-", "value": "anti_grass_12_tinyDry" }
 ]

@@ -1,0 +1,4 @@
+[
+	{"op":"add", "path" : "/undergroundPlaceables/grassMod/-", "value": "anti_grass_04_leafy" },
+	{"op":"add", "path" : "/undergroundPlaceables/grassMod/-", "value": "anti_grass_18_bigThick" }
+]

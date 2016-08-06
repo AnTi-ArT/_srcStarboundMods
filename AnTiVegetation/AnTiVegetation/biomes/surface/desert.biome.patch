@@ -1,0 +1,4 @@
+[
+	{"op":"add", "path" : "/surfacePlaceables/grassMod/-", "value": "anti_grass_11_mossyDry" },
+	{"op":"add", "path" : "/surfacePlaceables/grassMod/-", "value": "anti_grass_12_tinyDry" }
+]

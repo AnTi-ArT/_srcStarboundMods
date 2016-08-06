@@ -1,0 +1,5 @@
+[
+	{"op":"add", "path" : "/surfacePlaceables/grassMod/-", "value": "anti_grass_08_bigClr" },
+	{"op":"add", "path" : "/surfacePlaceables/grassMod/-", "value": "anti_grass_09_bubblyClr" },
+	{"op":"add", "path" : "/surfacePlaceables/grassMod/-", "value": "anti_grass_19_mossyClr" }
+]

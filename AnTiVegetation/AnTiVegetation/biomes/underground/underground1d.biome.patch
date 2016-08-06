@@ -1,0 +1,4 @@
+[
+	{"op":"add", "path" : "/undergroundPlaceables/grassMod/-", "value": "anti_grass_12_tinyDry" },
+	{"op":"add", "path" : "/undergroundPlaceables/grassMod/-", "value": "anti_grass_10_thinDry" }
+]

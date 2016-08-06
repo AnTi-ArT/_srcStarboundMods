@@ -1,5 +1,16 @@
 [
 	{"op":"add", "path" : "/undergroundPlaceables/items/8/treeFoliageList/-", "value": "anti_stringy" },
 	{"op":"add", "path" : "/undergroundPlaceables/items/8/treeFoliageList/-", "value": "anti_dusty" },
-	{"op":"add", "path" : "/undergroundPlaceables/items/8/treeFoliageList/-", "value": "anti_belly" }
+	{"op":"add", "path" : "/undergroundPlaceables/items/8/treeFoliageList/-", "value": "anti_belly" },
+
+	{"op":"add", "path" : "/undergroundPlaceables/grassMod/-", "value": "anti_grass_tiny" },
+	{"op":"add", "path" : "/undergroundPlaceables/grassMod/-", "value": "anti_grass_thin" },
+	{"op":"add", "path" : "/undergroundPlaceables/grassMod/-", "value": "anti_grass_10_thinDry" },
+	{"op":"add", "path" : "/undergroundPlaceables/grassMod/-", "value": "anti_grass_11_mossyDry" },
+	{"op":"add", "path" : "/undergroundPlaceables/grassMod/-", "value": "anti_grass_12_tinyDry" },
+	{"op":"add", "path" : "/undergroundPlaceables/grassMod/-", "value": "anti_grass_13_leafyDry" },
+	{"op":"add", "path" : "/undergroundPlaceables/grassMod/-", "value": "anti_grass_16_mossyDry" },
+	{"op":"add", "path" : "/undergroundPlaceables/grassMod/-", "value": "anti_grass_04_leafy" },
+	{"op":"add", "path" : "/undergroundPlaceables/grassMod/-", "value": "anti_grass_06_flat" },
+	{"op":"add", "path" : "/undergroundPlaceables/grassMod/-", "value": "anti_grass_07_mossy" }
 ]

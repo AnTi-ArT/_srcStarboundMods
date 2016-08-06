@@ -1,0 +1,6 @@
+[
+	{"op":"add", "path" : "/undergroundPlaceables/grassMod/-", "value": "anti_grass_16_mossyDry" },
+	{"op":"add", "path" : "/undergroundPlaceables/grassMod/-", "value": "anti_grass_12_tinyDry" },
+	{"op":"add", "path" : "/undergroundPlaceables/grassMod/-", "value": "anti_grass_13_leafyDry" },
+	{"op":"add", "path" : "/undergroundPlaceables/grassMod/-", "value": "anti_grass_06_flat" }
+]

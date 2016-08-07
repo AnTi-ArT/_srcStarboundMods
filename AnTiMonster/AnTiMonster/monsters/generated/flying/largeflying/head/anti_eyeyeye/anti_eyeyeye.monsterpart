@@ -1,0 +1,9 @@
+{
+  "name" : "anti_eyeyeye",
+  "category" : "largeflying",
+  "type" : "head",
+
+  "frames" : {
+    "head" : "anti_eyeyeye.png"
+  }
+}

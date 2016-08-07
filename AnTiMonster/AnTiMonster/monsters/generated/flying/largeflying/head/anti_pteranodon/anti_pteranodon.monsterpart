@@ -1,0 +1,9 @@
+{
+  "name" : "anti_pteranodon",
+  "category" : "largeflying",
+  "type" : "head",
+
+  "frames" : {
+    "head" : "anti_pteranodon.png"
+  }
+}

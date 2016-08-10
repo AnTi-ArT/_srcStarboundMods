@@ -1,0 +1,10 @@
+{
+  "name" : "anti_waspwings",
+  "category" : "largeflying",
+  "type" : "wings",
+
+  "frames" : {
+    "backWings" : "anti_waspwingsb.png",
+    "frontWings" : "anti_waspwingsf.png"
+  }
+}

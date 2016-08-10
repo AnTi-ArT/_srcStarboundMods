@@ -1,0 +1,9 @@
+{
+  "name" : "anti_waspbody",
+  "category" : "largeflying",
+  "type" : "body",
+
+  "frames" : {
+    "body" : "anti_waspbody.png"
+  }
+}

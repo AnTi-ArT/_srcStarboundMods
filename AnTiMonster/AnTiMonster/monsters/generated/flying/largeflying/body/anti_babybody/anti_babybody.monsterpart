@@ -1,0 +1,9 @@
+{
+  "name" : "anti_babybody",
+  "category" : "largeflying",
+  "type" : "body",
+
+  "frames" : {
+    "body" : "anti_babybody.png"
+  }
+}

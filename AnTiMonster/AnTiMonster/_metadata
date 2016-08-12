@@ -1,9 +1,9 @@
 {
   "author" : "Annuschka/AnTi",
-  "description" : "http://community.playstarbound.com/resources/antimonster-big-bag-of-monsters.301/\n\nThis mod adds more and more monster parts to increase the variation of creatures. It's work in progress. Right now, there are 30 new parts for the fishes, 30 parts for birds,12 parts for smallbipeds, 16 parts for tall bipeds and 31 parts for tiny quadrupeds.\nOther types of monsters will follow later.\n\nThis mod does not change any vanilla files, everything is prefixed \"anti_\" and nothing gets overwritten. It should be completely independent and compatible with anything.",
+  "description" : "http://community.playstarbound.com/resources/antimonster-big-bag-of-monsters.301/\n\nThis mod adds more and more monster parts to increase the variation of creatures. It's work in progress. Right now, there are \n- 30 new parts for small fishes\n- 30 parts for small birds\n- 13 parts for large birds\n- 12 parts for small bipeds\n- 16 parts for large bipeds\n- 31 parts for small quadrupeds\n- 14 parts for large quadrupeds\n\n[h1]Compatibility[/h1]\nThis mod does not change any vanilla files, everything is prefixed \"anti_\" and nothing gets overwritten. It should be completely independent and compatible with anything.\nEnabling alters the appearance of monsters, even on Planets you already visited. They seem to generate on load.\nDisabling the mod just switches back appearance, it will not break the game.\n\n[h1]Redistribution / Assets:[/h1]\nAdding to Mod Packs is allowed. You can also use assets in your own mod BUT don't pass them off as your own: e.g. link back to me. Anyone can use this mod in their mod compilation without the author's consent. Anyone can redistribute the mod's assets, when the author is mentioned in some kind of credits.\n\n[h1]Shameless advertisement[/h1]\n[b]GET MY OTHER MODS TOO!!![/b]\n- [url=http://steamcommunity.com/sharedfiles/filedetails/?id=734170655]AnTiVegetation increases biodiversity by 489%![/url]\n- [url=http://steamcommunity.com/sharedfiles/filedetails/?id=730544933]AnTiHair adds 239 new hair styles[/url]",
   "friendlyName" : "AnTiMonster",
   "link" : "steam://url/CommunityFilePage/730745660",
   "name" : "AnTiMonster",
   "steamContentId" : "730745660",
-  "version" : "2.0"
+  "version" : "2.1"
 }

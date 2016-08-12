@@ -1,9 +1,9 @@
 {
-  "name" : "anti_eyeyeye",
+  "name" : "anti_pteranodonhead",
   "category" : "largeflying",
   "type" : "head",
 
   "frames" : {
-    "head" : "anti_eyeyeye.png"
+    "head" : "anti_pteranodonhead.png"
   }
 }

@@ -1,0 +1,9 @@
+{
+  "name" : "anti_flowerhead",
+  "category" : "largeflying",
+  "type" : "head",
+
+  "frames" : {
+    "head" : "anti_flowerhead.png"
+  }
+}

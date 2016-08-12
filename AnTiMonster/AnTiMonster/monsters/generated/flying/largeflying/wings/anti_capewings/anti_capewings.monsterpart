@@ -1,0 +1,10 @@
+{
+  "name" : "anti_capewings",
+  "category" : "largeflying",
+  "type" : "wings",
+
+  "frames" : {
+    "backWings" : "anti_capewingb.png",
+    "frontWings" : "anti_capewingf.png"
+  }
+}

@@ -1,9 +1,9 @@
 {
-  "name" : "anti_pteranodon",
+  "name" : "anti_propellerhead",
   "category" : "largeflying",
   "type" : "head",
 
   "frames" : {
-    "head" : "anti_pteranodon.png"
+    "head" : "anti_propellerhead.png"
   }
 }

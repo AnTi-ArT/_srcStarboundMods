@@ -4,7 +4,7 @@
   "type" : "wings",
 
   "frames" : {
-    "backWings" : "anti_waspwingsb.png",
-    "frontWings" : "anti_waspwingsf.png"
+    "backWings" : "anti_waspwingb.png",
+    "frontWings" : "anti_waspwingf.png"
   }
 }

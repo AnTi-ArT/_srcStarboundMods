@@ -1,9 +1,9 @@
 {
-  "name" : "anti_propeller",
+  "name" : "anti_eyeyeyehead",
   "category" : "largeflying",
   "type" : "head",
 
   "frames" : {
-    "head" : "anti_propeller.png"
+    "head" : "anti_eyeyeyehead.png"
   }
 }

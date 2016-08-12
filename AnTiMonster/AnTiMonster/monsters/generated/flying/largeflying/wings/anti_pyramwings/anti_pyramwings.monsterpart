@@ -4,7 +4,7 @@
   "type" : "wings",
 
   "frames" : {
-    "backWings" : "anti_pyramwingsb.png",
-    "frontWings" : "anti_pyramwingsf.png"
+    "backWings" : "anti_pyramwingb.png",
+    "frontWings" : "anti_pyramwingf.png"
   }
 }

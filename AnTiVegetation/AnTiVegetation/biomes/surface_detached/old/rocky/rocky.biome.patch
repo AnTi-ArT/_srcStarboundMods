@@ -5,13 +5,6 @@
 	{"op":"add", "path" : "/surfacePlaceables/grassMod/-", "value": "anti_grass_04_leafy" },
 	{"op":"add", "path" : "/surfacePlaceables/grassMod/-", "value": "anti_grass_06_flat" },
 	{"op":"add", "path" : "/surfacePlaceables/grassMod/-", "value": "anti_grass_07_mossy" },
-	{"op":"add", "path" : "/surfacePlaceables/grassMod/-", "value": "anti_grass_16_mossyDry" },
+	{"op":"add", "path" : "/surfacePlaceables/grassMod/-", "value": "anti_grass_16_mossyDry" }
 	
-	{"op":"add", "path" : "/undergroundPlaceables/grassMod/-", "value": "anti_grass_bubbly" },
-	{"op":"add", "path" : "/undergroundPlaceables/grassMod/-", "value": "anti_grass_thin" },
-	{"op":"add", "path" : "/undergroundPlaceables/grassMod/-", "value": "anti_grass_tiny" },
-	{"op":"add", "path" : "/undergroundPlaceables/grassMod/-", "value": "anti_grass_04_leafy" },
-	{"op":"add", "path" : "/undergroundPlaceables/grassMod/-", "value": "anti_grass_06_flat" },
-	{"op":"add", "path" : "/undergroundPlaceables/grassMod/-", "value": "anti_grass_07_mossy" },
-	{"op":"add", "path" : "/undergroundPlaceables/grassMod/-", "value": "anti_grass_16_mossyDry" }
 ]

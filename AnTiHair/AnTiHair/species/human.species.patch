@@ -30,6 +30,11 @@
 	{"op":"add", "path" : "/genders/0/hair/-", "value":"anti_mhuman28"},
 	{"op":"add", "path" : "/genders/0/hair/-", "value":"anti_mhuman29"},
 	{"op":"add", "path" : "/genders/0/hair/-", "value":"anti_mhuman30"},
+	{"op":"add", "path" : "/genders/0/hair/-", "value":"anti_mhuman31"},
+	{"op":"add", "path" : "/genders/0/hair/-", "value":"anti_mhuman32"},
+	{"op":"add", "path" : "/genders/0/hair/-", "value":"anti_mhuman33"},
+	{"op":"add", "path" : "/genders/0/hair/-", "value":"anti_mhuman34"},
+	{"op":"add", "path" : "/genders/0/hair/-", "value":"anti_mhuman35"},
 	{"op":"add", "path" : "/genders/0/hair/-", "value":"anti_fhuman06"},
 
 	{"op":"add", "path" : "/genders/1/hair/-", "value":"anti_fhuman01"},

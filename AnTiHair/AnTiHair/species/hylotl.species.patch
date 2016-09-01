@@ -30,6 +30,7 @@
 	{"op":"add", "path" : "/genders/0/hair/-", "value":"anti_hylotl29"},
 	{"op":"add", "path" : "/genders/0/hair/-", "value":"anti_hylotl30"},
 	{"op":"add", "path" : "/genders/0/hair/-", "value":"anti_hylotl31"},
+	{"op":"add", "path" : "/genders/0/hair/-", "value":"anti_hylotl32"},
 	{"op":"add", "path" : "/genders/0/hair/-", "value":"anti_mhylotl01"},
 	{"op":"add", "path" : "/genders/0/hair/-", "value":"anti_mhylotl02"},
 	{"op":"add", "path" : "/genders/0/hair/-", "value":"anti_mhylotl03"},
@@ -66,5 +67,6 @@
 	{"op":"add", "path" : "/genders/1/hair/-", "value":"anti_hylotl28"},
 	{"op":"add", "path" : "/genders/1/hair/-", "value":"anti_hylotl29"},
 	{"op":"add", "path" : "/genders/1/hair/-", "value":"anti_hylotl30"},
-	{"op":"add", "path" : "/genders/1/hair/-", "value":"anti_hylotl31"}
+	{"op":"add", "path" : "/genders/1/hair/-", "value":"anti_hylotl31"},
+	{"op":"add", "path" : "/genders/1/hair/-", "value":"anti_hylotl32"}
 ]
